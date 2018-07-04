@@ -9,7 +9,7 @@ import java.util.HashMap;
 
 /**
  * https://leetcode.com/problems/roman-to-integer/description/
- * @author renukajoshi
+ * @author renukajoshi,amoghantarkar
  */
 public class RomanToInteger {
     
