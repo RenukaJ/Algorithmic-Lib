@@ -1,6 +1,26 @@
-# Algorithmic-Lib
 
-1. https://leetcode.com/problems/two-sum/
+# Master Book of Code
+
+## Description
+
+Running Book containing some of the classic problems.
+
+## Solutions
+
+
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Master Book of Code](#master-book-of-code)
+	- [Description](#description)
+	- [Solutions](#solutions)
+		- [Two Sum](#two-sum)
+
+<!-- /TOC -->
+
+--------------------------
+### Two Sum
+https://leetcode.com/problems/two-sum/
+
 ```java
 
  class Solution {
@@ -13,7 +33,7 @@
           }else{
               map.put(nums[i],i);
           }
- 
+
       }
       throw new IllegalArgumentException("No two sum solution");
     }
